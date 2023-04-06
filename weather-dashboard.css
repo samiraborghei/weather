@@ -1,0 +1,36 @@
+body {background-color: lavenderblush;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+header{
+    font-size: 300%;
+    background-color: rgb(125, 147, 245);
+    font-style: italic;
+    color: white;
+    text-align: left;
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    
+    padding: 0%;
+}
+
+.card{
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+}
+ul {
+    list-style-type: none;
+  }
+.container{
+    display: flex;
+   justify-content: flex-start;
+
+}
+
+#results-container{
+    background-color: rgb(245, 245, 245);
+}
+
+#five-day{
+justify-content: center;
+background-color: rgb(125, 147, 245);
+}
